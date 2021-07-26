@@ -1,6 +1,6 @@
 # Season 2021
 
-<img align="right" width="100" height="100" src="./JPG/breakers.PNG" alt="breakers afc image" />
+<img align="right" width="100" height="100" src="..JPG/breakers.PNG" alt="breakers afc image" />
 
 ## Match Preparation
 - [AFC_Breakers_Match_Preparation_Print_Version.pdf](./docs/AFC_Breakers_Match_Preparation_Print_Version.pdf)
@@ -21,15 +21,15 @@
 	- https://www.youtube.com/watch?v=NMfLJynwyTk
 
 #### Details
-- <img src="./JGP/1.jpg" width=800 height=600 />
-- <img src="./JGP/2.jpg" width=800 height=600 />
-- <img src="./JGP/3.jpg" width=800 height=600 />
-- <img src="./JGP/4.jpg" width=800 height=600 />
-- <img src="./JGP/5.jpg" width=800 height=600 />
-- <img src="./JGP/6.jpg" width=800 height=600 />
-- <img src="./JGP/7.jpg" width=800 height=600 />
-- <img src="./JGP/8.jpg" width=800 height=600 />
-- <img src="./JGP/9.jpg" width=800 height=600 />
+- <img src="./JPG/1.JPG" width=800 height=600 />
+- <img src="./JPG/2.JPG" width=800 height=600 />
+- <img src="./JPG/3.JPG" width=800 height=600 />
+- <img src="./JPG/4.JPG" width=800 height=600 />
+- <img src="./JPG/5.JPG" width=800 height=600 />
+- <img src="./JPG/6.JPG" width=800 height=600 />
+- <img src="./JPG/7.JPG" width=800 height=600 />
+- <img src="./JPG/8.JPG" width=800 height=600 />
+- <img src="./JPG/9.JPG" width=800 height=600 />
 
 
 ## Rough Plan
