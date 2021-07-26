@@ -2,7 +2,7 @@
 
 <img align="right" width="100" height="100" src="./JPG/breakers.PNG" alt="breakers afc image" />
 
-[[_TOC_]]
+
 
 ## Rough Plan
 - [Rough Plan](https://docs.google.com/document/d/1HwLKuzHWdzMY9hiNMNl-7k0UxkdKpG64pyDHFkBH2vA/edit)
