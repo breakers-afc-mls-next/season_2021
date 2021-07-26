@@ -4,7 +4,7 @@
 
 [[_TOC_]]
 
-## Rought Plan
+## Rough Plan
 - [Rough Plan](https://docs.google.com/document/d/1HwLKuzHWdzMY9hiNMNl-7k0UxkdKpG64pyDHFkBH2vA/edit)
 
 
