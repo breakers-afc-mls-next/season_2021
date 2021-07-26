@@ -2,7 +2,6 @@
 
 <img align="right" width="100" height="100" src="./JPG/breakers.PNG" alt="breakers afc image" />
 
-[[_TOC_]]
 
 ## Match Preparation
 - AFC_Breakers_Match_Preparation_Print_Version.pdf](./docs/AFC_Breakers_Match_Preparation_Print_Version.pdf)
