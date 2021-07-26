@@ -50,6 +50,8 @@
 - [Rough Plan](https://docs.google.com/document/d/1HwLKuzHWdzMY9hiNMNl-7k0UxkdKpG64pyDHFkBH2vA/edit)
 
 
-### References
+### References / OTHER Pages
+- [EST Galaxy Trip 08 2021](https://github.com/breakers-afc-mls-next/galaxy_trip_08_2021)
+- [EST 2021 Season Prep](https://github.com/breakers-afc-mls-next/season_2021)
 - [EST 2009 MLS Next Breakers Scrimmage 07/14/21](https://www.youtube.com/playlist?list=PLwqmavOE6xLNfzbzUYIs5UOKpTNIpONf_)
-
+- [EST Manchester Cup 2021](https://github.com/breakers-afc-mls-next/manchestercup_2021)
